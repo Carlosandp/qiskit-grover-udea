@@ -1,0 +1,9 @@
+# Versiones con las que se ejecutaron todos los notebooks (Python 3.13)
+qiskit==2.5.2
+qiskit-aer==0.18.2
+qiskit-ibm-runtime==0.51.0
+numpy==2.5.4
+matplotlib==3.11.2
+pylatexenc==2.11
+jupyterlab
+ipykernel

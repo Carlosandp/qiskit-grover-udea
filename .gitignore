@@ -1,0 +1,30 @@
+# Entornos y cachés
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Credenciales y configuración local (nunca subir)
+.env
+.env.*
+*.env
+qiskit-ibm.json
+.qiskit/
+*credentials*
+*apikey*
+*api_key*
+
+# Archivos del sistema y bases de datos locales de herramientas
+.DS_Store
+*.db
+*.sqlite
+
+# Archivos auxiliares de LaTeX
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
